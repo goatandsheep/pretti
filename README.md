@@ -2,7 +2,10 @@
 
 Based on [pretty ![npm downloads](https://img.shields.io/npm/dt/pretty.svg?style=flat-square)](https://www.npmjs.com/package/pretty)
 
-[![NPM version](https://img.shields.io/npm/v/pretti.svg?style=flat)](https://www.npmjs.com/package/pretti) [![NPM monthly downloads](https://img.shields.io/npm/dm/pretti.svg?style=flat)](https://npmjs.org/package/pretti) [![codecov](https://codecov.io/gh/goatandsheep/pretti/branch/master/graph/badge.svg?token=tgPNrZoH4k)](https://codecov.io/gh/goatandsheep/pretti)
+[![NPM version](https://img.shields.io/npm/v/pretti.svg?style=flat)](https://www.npmjs.com/package/pretti)
+[![codecov](https://codecov.io/gh/goatandsheep/pretti/branch/master/graph/badge.svg?token=tgPNrZoH4k)](https://codecov.io/gh/goatandsheep/pretti)
+[![NPM monthly downloads](https://img.shields.io/npm/dm/pretti.svg?style=flat)](https://npmjs.org/package/pretti)
+[![Known Vulnerabilities](https://snyk.io/test/github/goatandsheep/pretti/badge.svg)](https://snyk.io/test/github/goatandsheep/pretti)
 
 > Some tweaks for beautifying HTML with js-beautify according to my preferences.
 
