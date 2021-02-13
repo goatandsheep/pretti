@@ -2,7 +2,7 @@
 
 Based on [pretty ![npm downloads](https://img.shields.io/npm/dt/pretty.svg?style=flat-square)](https://www.npmjs.com/package/pretty)
 
-[![NPM version](https://img.shields.io/npm/v/pretti.svg?style=flat)](https://www.npmjs.com/package/pretti) [![NPM monthly downloads](https://img.shields.io/npm/dm/pretti.svg?style=flat)](https://npmjs.org/package/pretti) [![Linux Build Status](https://img.shields.io/travis/goatandsheep/pretti.svg?style=flat&label=Travis)](https://travis-ci.org/goatandsheep/pretti)
+[![NPM version](https://img.shields.io/npm/v/pretti.svg?style=flat)](https://www.npmjs.com/package/pretti) [![NPM monthly downloads](https://img.shields.io/npm/dm/pretti.svg?style=flat)](https://npmjs.org/package/pretti) [![codecov](https://codecov.io/gh/goatandsheep/pretti/branch/master/graph/badge.svg?token=tgPNrZoH4k)](https://codecov.io/gh/goatandsheep/pretti)
 
 > Some tweaks for beautifying HTML with js-beautify according to my preferences.
 
