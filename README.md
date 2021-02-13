@@ -1,4 +1,8 @@
-# pretty [![NPM version](https://img.shields.io/npm/v/pretty.svg?style=flat)](https://www.npmjs.com/package/pretty) [![NPM monthly downloads](https://img.shields.io/npm/dm/pretty.svg?style=flat)](https://npmjs.org/package/pretty) [![Linux Build Status](https://img.shields.io/travis/jonschlinkert/pretty.svg?style=flat&label=Travis)](https://travis-ci.org/jonschlinkert/pretty)
+# pretti
+
+Based on [pretty ![npm downloads](https://img.shields.io/npm/dt/pretty.svg?style=flat-square)](https://www.npmjs.com/package/pretty)
+
+[![NPM version](https://img.shields.io/npm/v/pretti.svg?style=flat)](https://www.npmjs.com/package/pretti) [![NPM monthly downloads](https://img.shields.io/npm/dm/pretti.svg?style=flat)](https://npmjs.org/package/pretti) [![Linux Build Status](https://img.shields.io/travis/goatandsheep/pretti.svg?style=flat&label=Travis)](https://travis-ci.org/goatandsheep/pretti)
 
 > Some tweaks for beautifying HTML with js-beautify according to my preferences.
 
@@ -7,19 +11,19 @@
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save pretty
+$ npm install --save pretti
 ```
 
 Install with [yarn](https://yarnpkg.com):
 
 ```sh
-$ yarn add pretty
+$ yarn add pretti
 ```
 
 ## Usage
 
 ```js
-var pretty = require('pretty');
+var pretty = require('pretti');
 
 pretty(STRING_OF_HTML);
 ```
@@ -87,13 +91,6 @@ Running and reviewing unit tests is a great way to get familiarized with a libra
 ```sh
 $ npm install && npm test
 ```
-
-### Author
-
-**Jon Schlinkert**
-
-* [github/jonschlinkert](https://github.com/jonschlinkert)
-* [twitter/jonschlinkert](https://twitter.com/jonschlinkert)
 
 ### License
 
