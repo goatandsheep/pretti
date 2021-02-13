@@ -1,7 +1,7 @@
 {
   "name": "pretti",
   "description": "Some tweaks for beautifying HTML with js-beautify according to my preferences.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "homepage": "https://github.com/goatandsheep/pretti",
   "author": "Kemal Ahmed (https://github.com/goatandsheep)",
   "repository": "goatandsheep/pretti",
